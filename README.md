@@ -3,6 +3,8 @@ qb-menu edit
 
 Original: https://github.com/qbcore-framework/qb-menu
 
+Preview: https://cdn.discordapp.com/attachments/911557290275012649/948961865025851482/Desktop_2022.03.03_-_17.12.33.01.mp4
+
 ## License
 
     QBCore Framework
